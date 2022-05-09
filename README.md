@@ -1,13 +1,13 @@
 # Smart-Bank
 
-Projeto criado em um dos cursos de React da Alura para aprender sobre como abstrair o CSS com Styled Components. <br />
+Project created in one of Alura's React courses to learn about how to abstract CSS with Styled Components. <br />
 
-Nele aprendi: <br />
+In it I learned how/when: <br />
 
-- A entender os problemas de conflitos de nomes de classes com CSS;
-- Como usar o Styled Components dentro do projeto;
-- Quando usar os estilos globais;
-- A utilizar herança dentro dos componentes.
+- To understand class name conflicts with CSS;
+- To use Styled Components inside the project;
+- To use inheritance within components;
+- To use global styles.
 
 # Overview
 
@@ -21,7 +21,9 @@ $ git clone https://github.com/velleeda/Smart-Bank
 
 # Go to the directory
 $ cd Smart-Bank
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
